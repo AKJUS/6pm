@@ -86,7 +86,7 @@
     "expo-system-ui": "~3.0.6",
     "expo-updates": "~0.26.12",
     "expo-web-browser": "~13.0.3",
-    "hono": "^4.4.8",
+    "hono": "^4.6.5",
     "lodash-es": "^4.17.21",
     "lucide-react-native": "^0.417.0",
     "nativewind": "^4.1.4",
